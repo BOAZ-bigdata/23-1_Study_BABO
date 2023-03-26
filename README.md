@@ -18,7 +18,7 @@
 
 ## 👉Team Member
 - 팀장: [20기 정원준](https://github.com/garden-jun/)
-- 팀원: [20기 강채원](https://github.com/chaeoneee/), [20기 김주은](https://github.com/jekim20/), [20기 김지민](https://github.com/JiminiiiKim/), ~~[19기 김지원](https://github.com/jeewonkimm2/)~~, [20기 송여진](https://github.com/YeoJins/), [20기 오태연](https://github.com/ohbigkite/), [20기 이시내](https://github.com/joljol38/)
+- 팀원: [20기 강채원](https://github.com/chaeoneee/), [20기 김주은](https://github.com/jekim20/), [20기 김지민](https://github.com/JiminiiiKim/), [19기 노근혜](https://github.com/cloudcompute1/), [20기 송여진](https://github.com/YeoJins/), [20기 오태연](https://github.com/ohbigkite/), [20기 이시내](https://github.com/joljol38/)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 
 ## 😤 발제 순서
-> **김지민 -> 이시내 -> 김주은 -> 오태연 -> 송여진 -> ~~김지원~~ -> 정원준 -> 강채원**
+> **김지민 -> 이시내 -> 김주은 -> 오태연 -> 송여진 -> 노근혜 -> 정원준 -> 강채원**
 
 <br/>
 
